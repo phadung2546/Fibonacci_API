@@ -1,0 +1,4 @@
+npm install init -y
+npm install express
+npm install -g nodemon 
+npm install swagger-jsdoc swagger-ui-express 
